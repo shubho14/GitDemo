@@ -17,4 +17,10 @@ public class RestAPITest {
 	{
 		System.out.println("DeleteTwitter");
 	}
+	
+	@Test
+	public void DeleteInstagram()
+	{
+		System.out.println("DeleteInstagram");
+	}
 }
